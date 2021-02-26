@@ -8,7 +8,7 @@
   },
   "bugs": "https://github.com/rill-js/rill/issues",
   "dependencies": {
-    "@rill/chain": "^1.0.4",
+    "@rill/chain": "^1.1.1",
     "@rill/error": "^1.2.0",
     "@rill/http": "^5.0.1",
     "@rill/https": "^5.0.0",
